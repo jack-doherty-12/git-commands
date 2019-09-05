@@ -1,4 +1,4 @@
-# Git Command Chear Sheet
+# Git Command Cheat Sheet
 
 # intialise repo
 
